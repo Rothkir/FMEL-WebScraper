@@ -5,5 +5,9 @@ For the webdriver, use Gecko Driver (Firefox) because Chrome sucks.
 DOWNLOAD:
 https://github.com/mozilla/geckodriver/releases
 
-INSTALATION:
+INSTALLATION:
 https://www.browserstack.com/guide/geckodriver-selenium-python
+
+REQUIREMENTS:
+- Pillow (For image comparison) -> pip install Pillow
+- Selenium (For web access and scraping itself) -> pip install selenium
